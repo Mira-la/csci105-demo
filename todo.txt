@@ -1,2 +1,3 @@
 Install Git
 Learn git add
+3. Make a commit
