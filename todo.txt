@@ -1,3 +1,2 @@
-Install Git
-Learn git add
+1. Install Git
 3. Make a commit
