@@ -2,5 +2,7 @@
 
 This project tracks my git practice
 
-dookie nigga poo
+Trying out a branch
+
+
 
